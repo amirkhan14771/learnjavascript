@@ -1,6 +1,6 @@
 # JavaScript Interview Questions
 
-### What is programming language?
+### 1. What is programming language?
 
 A programming language is a formal language used to communicate instructions to a computer or other machine, such as creating software applications, automating tasks, or controlling electronic devices. It consists of a set of rules, symbols, and syntax that allow programmers to write code in a specific format that can be executed by a computer. Common examples of programming languages include Java, Python, C++, and JavaScript.
 
