@@ -47,7 +47,7 @@ Javascript ek high level programming language hai jisko hum web me use karta hai
 
 ### History of javascript
 
-Brendan Eich ne 1995 me JavaScript ko bnaya tha. Javascript ko phle mocha name se jana tha, bad me iska naam live script hua or last ma Javascript hua kyo ki java language us time popular thi. ECMA is JavaScript ko 1997 me standar bnaya tha.
+Brendan Eich ne 1995 me JavaScript ko bnaya tha. Javascript ko phle mocha name se jana tha, bad me iska naam live script hua or last ma Javascript hua kyo ki java language us time popular thi. ECMA ne JavaScript ko 1997 me standar bnaya tha.
 
 ### What is ECMA ?
 
